@@ -66,4 +66,21 @@ def get_int():
 main()
 
 
+#prompt
+def main():
+    x = get_int()
+    print(f"x is {x}")
+
+#prompt=getint doesnt have to be caged with only x.
+def get_int(prompt):
+    while True:
+        try:
+            return int(input(prompt))
+        except ValueError:
+            pass
+        
+        
+main()
+
+
 
