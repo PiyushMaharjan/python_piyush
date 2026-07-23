@@ -1,0 +1,11 @@
+What keyword is used to inherit from a parent class in Python?|super|OOP
+Which module in Python is used for regular expressions?|re|Libraries
+What built-in exception is raised when dividing a number by zero?|zerodivisionerror|Exceptions
+What is the file extension for Python source files?|.py|Basics
+Which OOP principle hides internal data details?|encapsulation|OOP
+What block of code is used to catch and handle errors gracefully?|except|Exceptions
+Which file mode character is used to append new data to the end of a file?|a|File I/O
+In the re module, which function checks if a pattern matches at the beginning of a string?|match|Libraries
+What is the special method name used as a constructor to initialize attributes?|__init__|OOP
+Which OOP principle allows different classes to share method names with different behaviors?|polymorphism|OOP
+What are variables defined directly inside the class body shared across all instances called?|class variables|OOP
