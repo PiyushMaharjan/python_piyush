@@ -1,0 +1,37 @@
+[
+    {
+        "EmployeeID":"E001",
+        "Name":"Alice",
+        "Age":25,
+        "City":"New York",
+        "Job":"Engineer"
+    },
+    {
+        "EmployeeID":"E002",
+        "Name":"Bob",
+        "Age":30,
+        "City":"Los Angeles",
+        "Job":"Doctor"
+    },
+    {
+        "EmployeeID":"E003",
+        "Name":"Charlie",
+        "Age":35,
+        "City":"Chicago",
+        "Job":"Artist"
+    },
+    {
+        "EmployeeID":"E004",
+        "Name":"David",
+        "Age":40,
+        "City":"Houston",
+        "Job":"Lawyer"
+    },
+    {
+        "EmployeeID":"E005",
+        "Name":"Eve",
+        "Age":28,
+        "City":"San Francisco",
+        "Job":"Designer"
+    }
+]
